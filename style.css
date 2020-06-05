@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    margin:3rem 0;
+}
+
+.message{
+    outline:0;
+    border:1px solid darkslategray;
+    resize:auto; 
+    height:30vh;
+    width:10rem;
+    color:teal;
+  }
+  
+  .counter{
+    color:teal;
+  } 
